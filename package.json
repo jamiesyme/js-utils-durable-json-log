@@ -1,0 +1,22 @@
+{
+  "name": "js-utils-durable-json-log",
+  "version": "0.1.0",
+  "description": "Append-only JSON log backed by the file system",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiesyme/js-utils-durable-json-log.git"
+  },
+  "author": "Jamie Syme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamiesyme/js-utils-durable-json-log/issues"
+  },
+  "homepage": "https://github.com/jamiesyme/js-utils-durable-json-log#readme"
+}
