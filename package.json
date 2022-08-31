@@ -2,6 +2,7 @@
   "name": "js-utils-durable-json-log",
   "version": "0.1.0",
   "description": "Append-only JSON log backed by the file system",
+  "type": "module",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
